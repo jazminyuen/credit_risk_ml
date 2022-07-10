@@ -80,4 +80,6 @@ EasyEnsembleClassifier
 
 
 # Summary
-The EasyEnsembleClassifer model provides the highest precision and recall of predicting high-risk credit. Precision of 0.07 indicates 7% of classified high-risk credit is actually high-risk, and recall of 0.91 indicates 91% of actual high-risk credit was classified correctly. This is recommended as the best-performing model for this dataset and purpose of analysis.
+The EasyEnsembleClassifer model provides the highest precision and recall of predicting high-risk credit.
+
+ Precision of 0.07 indicates 7% of classified high-risk credit is actually high-risk, and recall of 0.91 indicates 91% of actual high-risk credit was classified correctly. This is recommended as the best-performing model for this dataset and purpose of analysis.
